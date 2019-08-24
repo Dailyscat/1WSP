@@ -1,3 +1,3 @@
-#1WSP
+# 1WSP
 
-#Deep Dive about javascript
+## Deep Dive into javascript
