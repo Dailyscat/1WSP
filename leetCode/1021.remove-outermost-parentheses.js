@@ -29,4 +29,9 @@ var removeOuterParentheses = function(S) {
 
   return result;
 };
+
+// 17과 22에서 left, right를 구분하고
+// parentCount가 증가, 감소 되는 부분을 구별하여
+// 내부에 있는 괄호만 추가되도록 설정했다.
+
 // @lc code=end
